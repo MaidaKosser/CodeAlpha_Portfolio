@@ -21,7 +21,7 @@ It acts as a **digital resume** where recruiters, clients, and collaborators can
 
 ---
 ## 📂 Project Structure
-```plaintext
+```
 ├── index.html      # Main landing page
 ├── style.css       # Styling
 ├── script.js       # Optional JS (animations, smooth scroll)
