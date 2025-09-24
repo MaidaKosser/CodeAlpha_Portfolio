@@ -20,23 +20,22 @@ It acts as a **digital resume** where recruiters, clients, and collaborators can
 - 🌀 **Smooth Scrolling & Subtle Animations** for modern UI/UX experience  
 
 ---
-
 ## 📂 Project Structure
-├── index.html # Main landing page
-├── style.css # Styling
-├── script.js # Optional JS (animations, smooth scroll)
-├── assets/ # Images
-└── README.md # Documentation
+```plaintext
+├── index.html      # Main landing page
+├── style.css       # Styling
+├── script.js       # Optional JS (animations, smooth scroll)
+├── assets/         # Images
+└── README.md       # Documentation
 
 ---
 
 ## ⚙️ How to Run Locally
-```bash
 # Clone this repository
 git clone https://github.com/MaidaKosser/CodeAlpha_Portfolio.git
 
 # Navigate to the project folder
-cd CodeAlpha_Portfolio
+cd Portfolio
 
 # Open index.html in your browser
 🌟 Live Demo
