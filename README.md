@@ -53,11 +53,9 @@ cd Portfolio
 3. Simply Open the project index.html file in browser:
 
 
-▶ Running the Portfolio
-No server setup required 🚀
+▶ Running the Portfolio:
 Just open the index.html file in your browser and explore the portfolio locally.
 
-🌟 Live Demo
-👉 Click Here to View My Live Portfolio
+🌟 Live Demo: Click Here to View My Live Portfolio
 
 
