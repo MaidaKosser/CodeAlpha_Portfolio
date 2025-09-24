@@ -16,19 +16,19 @@ It showcases my **skills, projects, resume, and contact details** in a clean and
 ---
 
 ## 📂 Project Structure
-├── index.html # Main landing page
-├── style.css # Styling
-├── script.js # Optional JS (animations, smooth scroll)
-├── assets/ # Images
-└── README.md # Documentation
+-├── index.html # Main landing page
+-├── style.css # Styling
+-├── script.js # Optional JS (animations, smooth scroll)
+-├── assets/ # Images
+-└── README.md # Documentation
 
 # Clone this repository
-git clone https://github.com/MaidaKosser/CodeAlpha_Portfolio.git
+-git clone https://github.com/MaidaKosser/CodeAlpha_Portfolio.git
 
 # Navigate to the project folder
-cd Portfolio
+-cd Portfolio
 
 # Open index.html in your browser
 
-🌟 Live Demo
-👉 Click Here to View My Live Portfolio: 
+-🌟 Live Demo
+-👉 Click Here to View My Live Portfolio: 
