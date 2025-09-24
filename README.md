@@ -1,40 +1,37 @@
-# Personal Portfolio Website
+# 🌐 Maida Butt - Personal Portfolio
 
-This is a responsive **Portfolio Website** built using **HTML, CSS, and JavaScript**.  
-It showcases my **skills, projects, resume, and contact information** in a clean and modern design.
+This is my **personal portfolio website** built with **HTML, CSS, and JavaScript**.  
+It showcases my **skills, projects, resume, and contact details** in a clean and modern design with smooth scrolling and animations.  
+
+---
 
 ## ✨ Features
-- 📖 About Me section  
+- 📖 About Me section to introduce myself  
 - 💼 Projects showcase with hover effects  
-- 📄 Resume/Skills section  
-- 📬 Contact information with form or details  
-- 🎨 Responsive layout (mobile-friendly)  
-- 🌀 Smooth scroll and animations  
-- ⭐ Hover effects for interactivity  
+- 📝 Resume & Skills section  
+- 📬 Contact section with details/form  
+- 🎨 Fully responsive layout (mobile + desktop)  
+- 🌀 Smooth scroll & subtle animations  
+
+---
 
 ## 📂 Project Structure
 ├── index.html # Main landing page
-├── style.css # Stylesheet
-├── script.js # Optional JavaScript (animations, smooth scroll)
+├── style.css # Styling
+├── script.js # Optional JS (animations, smooth scroll)
 ├── assets/ # Images
-└── README.md # Project documentation
+└── README.md # Documentation
 
-Copy code
+---
 
-## ⚙️ How to Use
-1. Clone the repository:
+## ⚙️ How to Run Locally
+1. Clone this repository in vs-code:
    git clone https://github.com/MaidaKosser/CodeAlpha_Portfolio.git
-Open the project folder:
+   
+2.Go to the project folder:
+3.cd directory
+4.Open the file index.html in your browser.
 
-bash
-Copy code
-cd portfolio-site
-Open index.html in your browser to view the site.
+🌟 Live Demo
+👉 Click Here to view my live portfolio: 
 
-
-
-
-
-
-
-Ask ChatGPT
