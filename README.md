@@ -41,7 +41,9 @@ The objective is to create a **fast, user-friendly, and responsive portfolio** t
 🚀 Getting Started
 To get a local copy of the Personal Portfolio project up and running on your machine, follow these steps:
 
-🔧 Installation:
+---
+
+## 🔧 Installation:
 1. **Clone the repository:**  
 ```bash
 git clone https://github.com/MaidaKosser/CodeAlpha_Portfolio.git
@@ -52,11 +54,14 @@ cd Portfolio
 ```
 3. Simply Open the project index.html file in browser:
 
+---
 
-▶ Running the Portfolio:
+## ▶ Running the Portfolio:
 Just open the index.html file in your browser and explore the portfolio locally.
 
-🌟 Live Demo: 
+---
+
+## 🌟 Live Demo: 
 - Click Here to View My Live Portfolio: https://drive.google.com/file/d/1cceyYokZdyfg_P5kQAZioZIVKGcan4Gh/view?usp=sharing
 
 
